@@ -1,0 +1,13 @@
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\bin\Debug\netcoreapp3.1\FamilyTreeC.exe
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\bin\Debug\netcoreapp3.1\FamilyTreeC.deps.json
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\bin\Debug\netcoreapp3.1\FamilyTreeC.runtimeconfig.json
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\bin\Debug\netcoreapp3.1\FamilyTreeC.runtimeconfig.dev.json
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\bin\Debug\netcoreapp3.1\FamilyTreeC.dll
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\bin\Debug\netcoreapp3.1\FamilyTreeC.pdb
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\obj\Debug\netcoreapp3.1\FamilyTreeC.csprojAssemblyReference.cache
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\obj\Debug\netcoreapp3.1\FamilyTreeC.AssemblyInfoInputs.cache
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\obj\Debug\netcoreapp3.1\FamilyTreeC.AssemblyInfo.cs
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\obj\Debug\netcoreapp3.1\FamilyTreeC.csproj.CoreCompileInputs.cache
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\obj\Debug\netcoreapp3.1\FamilyTreeC.dll
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\obj\Debug\netcoreapp3.1\FamilyTreeC.pdb
+C:\Users\Ollie\Desktop\Project\FamilyTree\FamilyTreeC\obj\Debug\netcoreapp3.1\FamilyTreeC.genruntimeconfig.cache

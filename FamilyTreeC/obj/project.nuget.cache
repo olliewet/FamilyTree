@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHJgLL7tBjCxbBwOprx4R39oL8ltAbHf7ZZaZXryFHBCYAzMlipVI9u8JF9yZ352paj/zhKaTm2UsYnZlA1XAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ollie\\Desktop\\Project\\FamilyTree\\FamilyTreeC\\FamilyTreeC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ollie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
