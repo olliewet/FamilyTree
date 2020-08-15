@@ -16,39 +16,39 @@ namespace FamilyTreeC
                 DateOfBirth = TreeStructure.persondob(),
                 Children = new List<Person>()
                 {           
-                    new Person() { Name = "Aunt" },
-                    new Person() { Name = "Uncle" },
+                    new Person() { Name = TreeStructure.personname() },
+                    new Person() { Name = TreeStructure.personname() },
                     new Person()
                     {
-                        Name = "Dad",
+                        Name = TreeStructure.personname(),
                         Children = new List<Person>()
                         {
                             new Person()
                             {
-                                Name = "Me",
+                                Name = TreeStructure.personname(),
                                 Children = new List<Person>()
                                 {
-                                    new Person() { Name = "John" },
+                                    new Person() { Name = TreeStructure.personname() },
                                     new Person()
                                     {
-                                        Name = "Jill",
+                                        Name = TreeStructure.personname(),
                                         Children = new List<Person>()
                                         {
-                                            new Person() { Name = "Sally", DateOfBirth = "4/4/1998" },
-                                            new Person() { Name = "Simon" },
+                                            new Person() { Name = TreeStructure.personname(), DateOfBirth = TreeStructure.persondob() },
+                                            new Person() { Name = TreeStructure.personname() },
                                         }
                                     },
                                 }
                             },
                             new Person()
                             {
-                                Name = "Sister",
+                                Name = TreeStructure.personname(),
                                 Children = new List<Person>()
                                 {
-                                    new Person() { Name = "John" },
+                                    new Person() { Name = TreeStructure.personname() },
                                     new Person()
                                     {
-                                        Name = "Jill",
+                                        Name = TreeStructure.personname(),
                                         
                                     }
                                 }
