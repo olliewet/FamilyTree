@@ -12,6 +12,11 @@ namespace FamilyTreeC
             ShowFamily(a, 0);
         }
 
+        /// <summary>
+        /// Looping through the Family and Printing out to console
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="level"></param>
         public static void ShowFamily(Person a, int level)
         {
             Console.WriteLine("".PadLeft(level * 4) + (a.Children.Any() ? "*" : "-") + a.Name + " " + a.DateOfBirth);
@@ -21,6 +26,7 @@ namespace FamilyTreeC
             }
         }
 
+        //Method of Getting A Persons Name off user 
         public static string personname()
         {
             string name;
@@ -29,6 +35,8 @@ namespace FamilyTreeC
             return name;
             
         }
+
+        //Method for checking if user has any children
         public static bool anyC()
         {
             bool children;
@@ -47,7 +55,7 @@ namespace FamilyTreeC
             
         }
 
-       
+        //Method of getting users date of birth
         public static string persondob()
         {
             string dob;
